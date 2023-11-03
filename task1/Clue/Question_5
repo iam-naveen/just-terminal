@@ -1,0 +1,16 @@
+integer w,x,y,z
+set w = 21,x = 11
+for (each y from 21 to 30)
+  for (each z from -1 to 0)
+       w = w-1  
+       if(w>y)
+          continue 
+       End if
+       w=1
+       if(w>z)
+           jump out of the loop
+       End if
+  End for
+End for 
+print w+x
+

@@ -1,0 +1,7 @@
+# Solve the Questions you get the ** Answer **
+# The Answer is one the folder name That Folder contain the password file.
+
+
+#Answer:
+(last Two digit of ip address + last two digit of mac address) % 12  
+ 

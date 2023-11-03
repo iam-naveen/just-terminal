@@ -1,0 +1,28 @@
+## *********************************  WELCOME TO JUST TERMINAL ********************************************
+
+## You Want to Complete (2 Tasks) to Win the Event (Winner consider by time taken to completed that tasks ) 
+
+## Task Directories
+
+   #  Task 1
+
+      * Directories name (rootpass)
+      * That directories contains no of sub Directories 
+      * Each directories contains random file with password 
+      * Among them you want to find the right directory using clue 
+      * In that directory the file is protected with zip password  
+        (use cmd #unzip to extract the file **TeamWork** is more Important )
+      * Using That password you can move to Next Task
+   
+   # Task 2  
+            
+      * Directorie name (Task1)
+      * The task is to open the "Finish.txt" file placed in Taskk1 Directory
+      * The file need (10 digit) password to open
+      * The pasword are splited and  it was stored in 5 files 
+      * Each file contains 2 digit combination of 5 file can get 10 digit password 
+      * Using the question find the right directory to find password file
+
+    
+ 
+  ***************************** ALL THE BEST ******************************************************
